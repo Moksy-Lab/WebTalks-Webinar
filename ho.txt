@@ -1,6 +1,9 @@
-<!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head>   
+
+<!DOCTYPE html>
+<!-- saved from url=(0056)file:///C:/Moksy%20Templates/Webinar/webinar/index.html# -->
+<html lang="en" itemscope="" itemtype="http://schema.org/WebPage" style="height: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">   
    <!-- Meta Tags-->
-<meta charset="utf-8">
+
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -24,7 +27,7 @@
 <meta name="author" content="Adam Levine"> 
 
 <!-- Canonical link -->
-<link rel="canonical" href="/">
+<link rel="canonical" href="file:///C:/">
 
 <!-- Designer and publisher info -->
 <meta name="designer" content="GGLink">
@@ -55,66 +58,65 @@
 
 <!--touch-icon -->
 <link rel="apple-touch-icon" sizes="57x57" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="apple-touch-icon" sizes="60x60" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="apple-touch-icon" sizes="72x72" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="apple-touch-icon" sizes="76x76" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="apple-touch-icon" sizes="114x114" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="apple-touch-icon" sizes="120x120" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="apple-touch-icon" sizes="144x144" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="icon" type="image/png" sizes="144x144" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="apple-touch-icon" sizes="152x152" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="icon" type="image/png" sizes="152x152" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="apple-touch-icon" sizes="180x180" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png"><link rel="icon" type="image/png" sizes="180x180" href="https://moksy.com/api/build/uploads/66522495/uploads/touch.png">
-<meta name="msapplication-TileColor" content="<br />
-<b>Deprecated</b>:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in <b>/var/www/preview/includes/preview-meta.php</b> on line <b>74</b><br />
+<meta name="msapplication-TileColor" content="&lt;br /&gt;
+&lt;b&gt;Deprecated&lt;/b&gt;:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in &lt;b&gt;/var/www/preview/includes/preview-meta.php&lt;/b&gt; on line &lt;b&gt;74&lt;/b&gt;&lt;br /&gt;
 ">
 <meta name="msapplication-TileImage" content="https://moksy.com/api/build/uploads/66522495/uploads/touch.png">
-<meta name="theme-color" content="<br />
-<b>Deprecated</b>:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in <b>/var/www/preview/includes/preview-meta.php</b> on line <b>76</b><br />
+<meta name="theme-color" content="&lt;br /&gt;
+&lt;b&gt;Deprecated&lt;/b&gt;:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in &lt;b&gt;/var/www/preview/includes/preview-meta.php&lt;/b&gt; on line &lt;b&gt;76&lt;/b&gt;&lt;br /&gt;
 ">
 
 <!--web-manifest -->
-<link rel="manifest" href="/templates/WebTalks/manifest.json">
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" rel="stylesheet" media="all">
-<link href="https://cdn.jsdelivr.net/npm/admin-lte@3.1/dist/css/adminlte.min.css" rel="stylesheet" media="all">
-<link href="https://moksy-lab.github.io/illinois/assets/styles/illinois.css" rel="stylesheet" media="all">
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" media="all">
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" rel="stylesheet" media="all">
+<link rel="manifest" href="file:///C:/templates/WebTalks/manifest.json">
+      <link href="./WebTalks_files/bootstrap.min.css" rel="stylesheet" media="all">
+<link href="./WebTalks_files/adminlte.min.css" rel="stylesheet" media="all">
+<link href="./WebTalks_files/illinois.css" rel="stylesheet" media="all">
+<link href="./WebTalks_files/font-awesome.min.css" rel="stylesheet" media="all">
+<link href="./WebTalks_files/all.min.css" rel="stylesheet" media="all">
 
-<link rel="stylesheet" type="text/css" href="assets/styles/styles.css"></head>
-<body class="moksy WebTalks "> 
+<link rel="stylesheet" type="text/css" href="./WebTalks_files/styles.css"></head>
+<body class="moksy WebTalks " style="height: auto;"> 
 <div itemprop="isPartOf" itemscope="" itemtype="http://schema.org/WebSite"></div>
 
 <!--  naive navbar section main wrapper start from here -->
-<section id="naiveNavbar" class="naive navbar naiveNavbar" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="naiveNavbar" class="naive navbar naiveNavbar" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
     <!-- navbar main wrapper starts here -->
         <!-- header main wrapper starts here -->
         <header>
           <div class="container">
             <nav class="navbar navbar-light bg-white navbar-expand-lg text-bold">
               <div class="col-3 text-left">
-                <a href="#" itemprop="url" class="">
-                  <img src="https://builder.moksy.com/wp-content/uploads/2022/08/logo-10.png" class="logo " alt="an image">
+                <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
+                  <img src="./WebTalks_files/logo-10.png" class="logo " alt="an image">
                 </a>
               </div>
     
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse-2"
-                aria-controls="navbarNav7" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-open-icon"> &#9776;</span> <!-- Hamburger Icon -->
-                <span class="navbar-close-icon">&times;</span> <!-- Close Icon -->
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse-2" aria-controls="navbarNav7" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-open-icon"> ☰</span> <!-- Hamburger Icon -->
+                <span class="navbar-close-icon">×</span> <!-- Close Icon -->
               </button>
               
               <div class="collapse navbar-collapse navbar-collapse-2 justify-content-center col-lg-6" id="navbarNav7">
                 <ul class="navbar-nav justify-content-center ">
                   <li class="nav-item">
-                    <a class=" nav-link" href="#" itemprop="url">
-                      Sessions </a>
+                    <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
+                       </a>
                   </li>
                   <li class="nav-item">
-                    <a class=" nav-link" href="#" itemprop="url">
-                      Toolkits</a>
+                    <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
+                      </a>
                   </li>
                   <li class="nav-item">
-                    <a class=" nav-link" href="#" itemprop="url">
-                      Chatroom </a>
+                    <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
+                       </a>
                   </li>
                   <li class="nav-item">
-                    <a class=" nav-link" href="#" itemprop="url">
-                    About</a>
+                    <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
+                      WebTalks</a>
                   </li>
                   <li class="nav-item">
-                    <a class=" nav-link" href="#" itemprop="url">
-                    Help</a>
+                    <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
+                      Support</a>
                   </li>
                 </ul>
               </div>
@@ -123,15 +125,15 @@
                 <ul class="navbar-nav ml-auto justify-content-end">
     
                   <li class="nav-item">
-                    <a class=" nav-link" href=" tel:0808 175 1749" itemprop="url">
+                    <a class=" nav-link" href="tel:0808 175 1749" itemprop="url">
                       <span class="span-custom-class" itemprop="text">
                         <i class="fa fa-phone" itemprop="icon"> </i> 0808 175 1749                  </span>
                     </a>
                   </li>
                 </ul>
     
-                <a class=" btn" href="" itemprop="url" data-toggle="modal" data-target="#exampleModalCenter">
-                Sign In            </a>
+                <a class=" btn" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html" itemprop="url" data-toggle="modal" data-target="#exampleModalCenter">
+                Sign Up           </a>
     
     
     
@@ -149,9 +151,9 @@
 <!-- / naive navbar section main wrapper start from here -->
 
 <!-- haste hero section main wrapper start from here -->
-<section id="hasteHero" class="haste hero hasteHero" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="hasteHero" class="haste hero hasteHero" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
     <!-- Main content starts here -->
-    <div class="jumbotron container" itemscope itemtype="https://schema.org/WebPage">
+    <div class="jumbotron container" itemscope="" itemtype="https://schema.org/WebPage">
     
         <div class="row justify-content-between">
     
@@ -166,13 +168,14 @@
     
                 <!-- Main Headline -->
                 <h2 class=" mb-3 font-weight-bold DescriptionHeading branded" itemprop="headline">
-                  Join Web Talks-Your Gateway to Growth
+                
                 </h2>
     
                 <!-- Supporting Paragraph -->
                 <p class=" mb-4 DescriptionPara" itemprop="description">
-                  Step into a world of expert insights, live strategies, and real-time learning. Web Talks connects you with top digital marketers who share practical tips, campaign secrets, and growth hacks. From social media to SEO, dive into focused sessions designed to help you market smarter, not harder.
-                  Gain actionable knowledge that will elevate your professional skills and drive measurable success.
+                  
+                  
+                   
                 </p>
     
                 <!-- Start Free Trial Section -->
@@ -180,14 +183,13 @@
                     <!-- Search Section Starts -->
                     <div class="input-group mb-3">
                         <!-- Input Field -->
-                        <input type="text" class="form-control " placeholder="search courses here " 
-                               aria-label="Recipient's username" aria-describedby="basic-addon2" itemprop="query-input">
+                        <input type="text" class="form-control " placeholder="search courses here " aria-label="Recipient&#39;s username" aria-describedby="basic-addon2" itemprop="query-input">
     
                         <!-- Search Button -->
                         <div class="input-group-append">
                             <button class="btn searchBtn " type="button" itemprop="potentialAction">
                                 <i class="fa fa-search " itemprop="icon"></i>
-                                Explore Topics 
+                                
                             </button>
                         </div>
                     </div>
@@ -199,9 +201,7 @@
             <!-- Right side content starts here -->
             <div class="col-md-6 descriptionImage">
                 <!-- Hero Image -->
-                <img src="https://images.moksy.com/templates/default/hero/graduation.svg" 
-                     alt="an image" 
-                     class="img-fluid " itemprop="image"/>
+                <img src="./WebTalks_files/graduation.svg" alt="an image" class="img-fluid " itemprop="image">
             </div>
             <!-- /Right side content ends here -->
     
@@ -215,110 +215,110 @@
 
     <!-- enzor Event section main wrapper start from here -->
 
-  <section id="enzorEvents" class="enzor events enzorEvents" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+  <section id="enzorEvents" class="enzor events enzorEvents" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
 
     <div class="container">
     <!-- Main headline for the events section -->
     <h2 class="">Events</h2>
     <div class="row">
       <!-- Start of an event card -->
-      <article class="card fl-left" itemscope itemtype="http://schema.org/Event">
+      <article class="card fl-left" itemscope="" itemtype="http://schema.org/Event">
         <div class="date">
-          <time itemprop="startDate" datetime="<script type='text/javascript'> var currentDate = new Date(); var day = currentDate.getDate(); document.write(day); </script><script type='text/javascript'> var currentDate = new Date(); var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']; var month = monthNamesShort[currentDate.getMonth()]; document.write(month); </script>"> 
-            <span class="span-custom-class "><script type='text/javascript'> var currentDate = new Date(); var day = currentDate.getDate(); document.write(day); </script></span>
-            <span class="span-custom-class "><script type='text/javascript'> var currentDate = new Date(); var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']; var month = monthNamesShort[currentDate.getMonth()]; document.write(month); </script></span>
+          <time itemprop="startDate" datetime="&lt;script type=&#39;text/javascript&#39;&gt; var currentDate = new Date(); var day = currentDate.getDate(); document.write(day); &lt;/script&gt;&lt;script type=&#39;text/javascript&#39;&gt; var currentDate = new Date(); var monthNamesShort = [&#39;JAN&#39;, &#39;FEB&#39;, &#39;MAR&#39;, &#39;APR&#39;, &#39;MAY&#39;, &#39;JUN&#39;, &#39;JUL&#39;, &#39;AUG&#39;, &#39;SEP&#39;, &#39;OCT&#39;, &#39;NOV&#39;, &#39;DEC&#39;]; var month = monthNamesShort[currentDate.getMonth()]; document.write(month); &lt;/script&gt;"> 
+            <span class="span-custom-class "><script type="text/javascript"> var currentDate = new Date(); var day = currentDate.getDate(); document.write(day); </script>11</span>
+            <span class="span-custom-class "><script type="text/javascript"> var currentDate = new Date(); var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']; var month = monthNamesShort[currentDate.getMonth()]; document.write(month); </script>APR</span>
           </time>
         </div> 
         <div class="card-cont">
-          <h3 class="" itemprop="name">AIHealthcare Conference</h3>
+          <h3 class="" itemprop="name">Digital Marketing Innovations Summit</h3>
           <div class="even-date">
             <i class=" fa fa-calendar"></i>
             <time>
-              <span class="ml-2">08:55pm to 12:00 am</span>
+              <span class="ml-2">09:00 am to 01:00 pm</span>
             </time>
           </div>
           <div class="even-info">
             <i class=" fa fa-map-marker"></i>
-            <p itemprop="location" itemscope itemtype="http://schema.org/Place">
-              <span itemprop="name" class="ml-2">SecureTech Center, Sydney</span>
+            <p itemprop="location" itemscope="" itemtype="http://schema.org/Place">
+              <span itemprop="name" class="ml-2">Innovation Hub, New York City</span>
             </p>
           </div> 
-          <a href="#" class="book-btn " itemprop="url">Book</a>
+          <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="book-btn " itemprop="url">Book</a>
         </div>
       </article>
       <!-- Additional event cards follow similar structure -->
-      <article class="card fl-left" itemscope itemtype="http://schema.org/Event">
+      <article class="card fl-left" itemscope="" itemtype="http://schema.org/Event">
         <div class="date">
-          <time itemprop="startDate" datetime="<script type='text/javascript'>var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 1);var day = currentDate.getDate();document.write(day);</script><script type='text/javascript'>var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var nextMonthIndex = (currentDate.getMonth() + 1) % 12;var month = monthNamesShort[nextMonthIndex];document.write(month);</script>"> 
-            <span class="span-custom-class "><script type='text/javascript'>var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 1);var day = currentDate.getDate();document.write(day);</script></span>
-            <span class="span-custom-class "><script type='text/javascript'>var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var nextMonthIndex = (currentDate.getMonth() + 1) % 12;var month = monthNamesShort[nextMonthIndex];document.write(month);</script></span>
+          <time itemprop="startDate" datetime="&lt;script type=&#39;text/javascript&#39;&gt;var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 1);var day = currentDate.getDate();document.write(day);&lt;/script&gt;&lt;script type=&#39;text/javascript&#39;&gt;var currentDate = new Date();var monthNamesShort = [&#39;JAN&#39;, &#39;FEB&#39;, &#39;MAR&#39;, &#39;APR&#39;, &#39;MAY&#39;, &#39;JUN&#39;, &#39;JUL&#39;, &#39;AUG&#39;, &#39;SEP&#39;, &#39;OCT&#39;, &#39;NOV&#39;, &#39;DEC&#39;];var nextMonthIndex = (currentDate.getMonth() + 1) % 12;var month = monthNamesShort[nextMonthIndex];document.write(month);&lt;/script&gt;"> 
+            <span class="span-custom-class "><script type="text/javascript">var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 1);var day = currentDate.getDate();document.write(day);</script>11</span>
+            <span class="span-custom-class "><script type="text/javascript">var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var nextMonthIndex = (currentDate.getMonth() + 1) % 12;var month = monthNamesShort[nextMonthIndex];document.write(month);</script>MAY</span>
           </time>
         </div>
         <div class="card-cont">
-          <h3 class="" itemprop="name">Cybersecurity Summit</h3>
+          <h3 class="" itemprop="name">Future of Work: AI &amp; Automation Forum</h3>
           <div class="even-date">
             <i class=" fa fa-calendar"></i>
             <time>
-              <span class="ml-2">08:00pm to 9:00 am</span>
+              <span class="ml-2">10:00 am to 02:00 pm</span>
             </time>
           </div>
           <div class="even-info">
             <i class=" fa fa-map-marker"></i> 
-            <p itemprop="location" itemscope itemtype="http://schema.org/Place">
-              <span itemprop="name" class="ml-2">Quantum Park, Sydney</span>
+            <p itemprop="location" itemscope="" itemtype="http://schema.org/Place">
+              <span itemprop="name" class="ml-2">TechSpace, London</span>
             </p>
           </div>
-          <a href="#" class="book-btn " itemprop="url">Book</a>
+          <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="book-btn " itemprop="url">Book</a>
         </div>
       </article>
     </div>
     <div class="row">
-      <article class="card fl-left" itemscope itemtype="http://schema.org/Event">
+      <article class="card fl-left" itemscope="" itemtype="http://schema.org/Event">
         <div class="date">
-          <time itemprop="startDate" datetime="<script type='text/javascript'>var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 5);currentDate.setDate(currentDate.getDate() + 10);var day = currentDate.getDate();document.write(day);</script><script type='text/javascript'>var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var monthIndex = (currentDate.getMonth() + 3) % 12;var month = monthNamesShort[monthIndex];document.write(month);</script>"> 
-            <span class="span-custom-class "><script type='text/javascript'>var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 5);currentDate.setDate(currentDate.getDate() + 10);var day = currentDate.getDate();document.write(day);</script></span>
-            <span class="span-custom-class "><script type='text/javascript'>var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var monthIndex = (currentDate.getMonth() + 3) % 12;var month = monthNamesShort[monthIndex];document.write(month);</script></span>
+          <time itemprop="startDate" datetime="&lt;script type=&#39;text/javascript&#39;&gt;var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 5);currentDate.setDate(currentDate.getDate() + 10);var day = currentDate.getDate();document.write(day);&lt;/script&gt;&lt;script type=&#39;text/javascript&#39;&gt;var currentDate = new Date();var monthNamesShort = [&#39;JAN&#39;, &#39;FEB&#39;, &#39;MAR&#39;, &#39;APR&#39;, &#39;MAY&#39;, &#39;JUN&#39;, &#39;JUL&#39;, &#39;AUG&#39;, &#39;SEP&#39;, &#39;OCT&#39;, &#39;NOV&#39;, &#39;DEC&#39;];var monthIndex = (currentDate.getMonth() + 3) % 12;var month = monthNamesShort[monthIndex];document.write(month);&lt;/script&gt;"> 
+            <span class="span-custom-class "><script type="text/javascript">var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 5);currentDate.setDate(currentDate.getDate() + 10);var day = currentDate.getDate();document.write(day);</script>21</span>
+            <span class="span-custom-class "><script type="text/javascript">var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var monthIndex = (currentDate.getMonth() + 3) % 12;var month = monthNamesShort[monthIndex];document.write(month);</script>JUL</span>
           </time>
         </div>
         <div class="card-cont">
-          <h3 class="" itemprop="name">Quantum Computing Expo</h3>
+          <h3 class="" itemprop="name">Social Media Marketing Strategies Conference</h3>
           <div class="even-date">
             <i class=" fa fa-calendar"></i>
             <time>
-              <span class="ml-2">12pm to 2:00 am</span>
+              <span class="ml-2">06:00 pm to 10:00 pm</span>
             </time>
           </div>
           <div class="even-info">
             <i class=" fa fa-map-marker"></i>
-            <p itemprop="location" itemscope itemtype="http://schema.org/Place">
-              <span itemprop="name" class="ml-2">Innovate Hub, Sydney</span>
+            <p itemprop="location" itemscope="" itemtype="http://schema.org/Place">
+              <span itemprop="name" class="ml-2">Digital Hub, San Francisco</span>
             </p>
           </div>
-          <a href="#" class="book-btn " itemprop="url">Book</a>
+          <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="book-btn " itemprop="url">Book</a>
         </div>
       </article>
-      <article class="card fl-left" itemscope itemtype="http://schema.org/Event">
+      <article class="card fl-left" itemscope="" itemtype="http://schema.org/Event">
         <div class="date">
-          <time itemprop="startDate" datetime="<script type='text/javascript'>var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 9);currentDate.setDate(currentDate.getDate() + 10);var day = currentDate.getDate();document.write(day);</script><script type='text/javascript'>var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var month = monthNamesShort[(currentDate.getMonth() + 6) % 12];document.write(month);</script>"> 
-            <span class="span-custom-class "><script type='text/javascript'>var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 9);currentDate.setDate(currentDate.getDate() + 10);var day = currentDate.getDate();document.write(day);</script></span>
-            <span class="span-custom-class "><script type='text/javascript'>var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var month = monthNamesShort[(currentDate.getMonth() + 6) % 12];document.write(month);</script></span>
+          <time itemprop="startDate" datetime="&lt;script type=&#39;text/javascript&#39;&gt;var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 9);currentDate.setDate(currentDate.getDate() + 10);var day = currentDate.getDate();document.write(day);&lt;/script&gt;&lt;script type=&#39;text/javascript&#39;&gt;var currentDate = new Date();var monthNamesShort = [&#39;JAN&#39;, &#39;FEB&#39;, &#39;MAR&#39;, &#39;APR&#39;, &#39;MAY&#39;, &#39;JUN&#39;, &#39;JUL&#39;, &#39;AUG&#39;, &#39;SEP&#39;, &#39;OCT&#39;, &#39;NOV&#39;, &#39;DEC&#39;];var month = monthNamesShort[(currentDate.getMonth() + 6) % 12];document.write(month);&lt;/script&gt;"> 
+            <span class="span-custom-class "><script type="text/javascript">var currentDate = new Date();currentDate.setMonth(currentDate.getMonth() + 9);currentDate.setDate(currentDate.getDate() + 10);var day = currentDate.getDate();document.write(day);</script>21</span>
+            <span class="span-custom-class "><script type="text/javascript">var currentDate = new Date();var monthNamesShort = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];var month = monthNamesShort[(currentDate.getMonth() + 6) % 12];document.write(month);</script>OCT</span>
           </time>
         </div>
         <div class="card-cont">
-          <h3 class="" itemprop="name">5G Innovations Forum</h3>
+          <h3 class="" itemprop="name">Content Marketing &amp; SEO Summit</h3>
           <div class="even-date">
             <i class=" fa fa-calendar"></i>
             <time>
-              <span class="ml-2">7:55pm to 12:00 am</span>
+              <span class="ml-2">11:00 am to 03:00 pm</span>
             </time>
           </div>
           <div class="even-info">
             <i class=" fa fa-map-marker"></i>
-            <p itemprop="location" itemscope itemtype="http://schema.org/Place">
-              <span itemprop="name" class="ml-2">Tech Valley, Sydney</span>
+            <p itemprop="location" itemscope="" itemtype="http://schema.org/Place">
+              <span itemprop="name" class="ml-2">Creative Space, Berlin</span>
             </p>
           </div>
-          <a href="#" class="book-btn " itemprop="url">Book</a>
+          <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="book-btn " itemprop="url">Book</a>
         </div>
       </article>
     </div>
@@ -332,40 +332,40 @@
 
 <!-- troxa  section main wrapper start from here -->
 
-<section id="troxaTeam" class="troxa team troxaTeam" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="troxaTeam" class="troxa team troxaTeam" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
     <!-- main content starts from here -->
     <div class="container">
         <!-- Section headline with schema for headline -->
         <h2 class="branded  text-center mb-4" itemprop="headline">
-          Our Speaker Panel  </h2>
+          Our Speaker Panel   </h2>
     
         <div class="row">
             <!-- Team Member 1 -->
             <div class="col-md-4">
-                <div class="our-team" itemprop="member" itemscope itemtype="https://schema.org/Person">
+                <div class="our-team" itemprop="member" itemscope="" itemtype="https://schema.org/Person">
                     <div class="pic">
                         <!-- Team member image -->
-                        <img class="" src="https://images.moksy.com/templates/default/people/people-one.jpg" alt="" itemprop="image">
+                        <img class="" src="./WebTalks_files/people-one.jpg" alt="" itemprop="image">
                         <div class="social_media_team">
                             <!-- Social media links -->
                             <ul class="team_social ">
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-facebook" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-twitter" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-linkedin-in" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-youtube" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
@@ -375,38 +375,38 @@
                     <div class="team-prof">
                         <!-- Team member name -->
                         <h3 class=" post-title">
-                            <a href="#" itemprop="name">Lauren Cox</a>
+                            <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="name">John Doe</a>
                         </h3>
                         <!-- Team member job title -->
-                        <span class="post" itemprop="jobTitle">SEO &amp; Content Marketing Expert</span>
+                        <span class="post" itemprop="jobTitle"></span>
                     </div>
                 </div>
             </div>
     
             <!-- Team Member 2 -->
             <div class="col-md-4">
-                <div class="our-team" itemprop="member" itemscope itemtype="https://schema.org/Person">
+                <div class="our-team" itemprop="member" itemscope="" itemtype="https://schema.org/Person">
                     <div class="pic">
-                        <img class="" src="https://images.moksy.com/templates/default/people/people-two.jpg" alt="" itemprop="image">
+                        <img class="" src="./WebTalks_files/people-two.jpg" alt="" itemprop="image">
                         <div class="social_media_team">
                             <ul class="team_social ">
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-facebook" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-twitter" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-linkedin-in" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-youtube" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
@@ -415,37 +415,37 @@
                     </div>
                     <div class="team-prof">
                         <h3 class=" post-title">
-                            <a href="#" itemprop="name">Terry Fletcher</a>
+                            <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="name">Jane Smith</a>
                         </h3>
-                        <span class="post" itemprop="jobTitle">Social Media Marketing Specialist</span>
+                        <span class="post" itemprop="jobTitle"></span>
                     </div>
                 </div>
             </div>
     
             <!-- Team Member 3 -->
             <div class="col-md-4">
-                <div class="our-team" itemprop="member" itemscope itemtype="https://schema.org/Person">
+                <div class="our-team" itemprop="member" itemscope="" itemtype="https://schema.org/Person">
                     <div class="pic">
-                        <img class="" src="https://images.moksy.com/templates/default/people/people-nine.png" alt="" itemprop="image">
+                        <img class="" src="./WebTalks_files/people-nine.png" alt="" itemprop="image">
                         <div class="social_media_team">
                             <ul class="team_social ">
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-facebook" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-twitter" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-linkedin-in" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" itemprop="url" class="">
+                                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
                                         <i class="fab fa-youtube" aria-hidden="true" itemprop="icon"></i>
                                     </a>
                                 </li>
@@ -454,9 +454,9 @@
                     </div>
                     <div class="team-prof">
                         <h3 class=" post-title">
-                            <a href="#" itemprop="name">John Doe</a>
+                            <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="name">Robert Green</a>
                         </h3>
-                        <span class="post" itemprop="jobTitle">Digital Analytics &amp; Conversion Expert</span>
+                        <span class="post" itemprop="jobTitle"></span>
                     </div>
                 </div>
             </div>
@@ -469,23 +469,23 @@
     <!-- /troxa  section main wrapper ends here -->    
 
 <!-- steve steps section main wrapper start from here -->
-<section id="steveSteps" class="steve steps steveSteps" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="steveSteps" class="steve steps steveSteps" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
 
     <!-- steps starts here -->
     <div class="container my-5">
       <!-- Header section -->
       <div class="text-center mb-5">
         <h2 class=" text-capitalize font-weight-bold" itemprop="name">
-          How it 
+          How our webinar 
           <span class="heading " itemprop="alternativeHeadline">
-            Works?      </span>
+            works?      </span>
         </h2>
       </div>
     
       <!-- Steps container -->
       <div class="col-12 col-md-8 mx-auto">
         <!-- Step 1 -->
-        <div class="d-flex my-4 align-items-start" itemscope itemtype="https://schema.org/HowToStep">
+        <div class="d-flex my-4 align-items-start" itemscope="" itemtype="https://schema.org/HowToStep">
           <div class="mr-3 text-center mt-2">
             <!-- Step number -->
             <div class="p-4 rounded-circle text-white font-weight-bold d-flex align-items-center justify-content-center circle" itemprop="position">
@@ -497,14 +497,18 @@
           <!-- Step description -->
           <div class="rounded bg-light p-4" itemprop="text">
             <h5 class=" mb-3" itemprop="name">
-              Explore Our Courses        </h5>
+              Introduction: Overview of Key Digital Marketing Topics        </h5>
             <p class=" text-secondary font-weight-light" itemprop="text">
-              Discover a wide range of expertly crafted courses designed to help you master new skills. Whether you're looking to enhance your career or explore a new passion, we have the right course for you.        </p>
+              Kick off with an introduction to core digital marketing strategies, including SEO, Content Marketing, and Social Media Marketing. Set the stage for what attendees will learn.
+
+
+
+        </p>
           </div>
         </div>
     
         <!-- Step 2 -->
-        <div class="d-flex my-4 align-items-start" itemscope itemtype="https://schema.org/HowToStep">
+        <div class="d-flex my-4 align-items-start" itemscope="" itemtype="https://schema.org/HowToStep">
           <div class="mr-3 text-center mt-2">
             <!-- Step number -->
             <div class="p-4 rounded-circle text-white font-weight-bold d-flex align-items-center justify-content-center circle" itemprop="position">
@@ -516,14 +520,16 @@
           <!-- Step description -->
           <div class="rounded bg-light p-4" itemprop="text">
             <h5 class=" mb-3" itemprop="name">
-              Enroll & Start Learning        </h5>
+              Expert Insights: Deep Dive into Digital Strategies       </h5>
             <p class=" text-secondary font-weight-light" itemprop="text">
-              Join our learning community with a simple enrollment process. Gain instant access to resources, course materials, and interactive lessons, all designed to provide an engaging learning experience.        </p>
+              Industry experts dive into advanced topics like PPC Campaigns, Email Marketing, and Analytics to provide practical, actionable insights.
+
+        </p>
           </div>
         </div>
     
         <!-- Step 3 -->
-        <div class="d-flex my-4 align-items-start" itemscope itemtype="https://schema.org/HowToStep">
+        <div class="d-flex my-4 align-items-start" itemscope="" itemtype="https://schema.org/HowToStep">
           <div class="mr-3 text-center mt-2">
             <!-- Step number -->
             <div class="p-4 rounded-circle text-white font-weight-bold d-flex align-items-center justify-content-center circle" itemprop="position">
@@ -535,9 +541,11 @@
           <!-- Step description -->
           <div class="rounded bg-light p-4" itemprop="text">
             <h5 class=" mb-3" itemprop="name">
-              Achieve Your Goals        </h5>
+              Q&amp;A and Key Takeaways: Interactive Learning      </h5>
             <p class=" text-secondary font-weight-light" itemprop="text">
-              Track your progress, earn certificates, and apply your new skills in real-world scenarios. With our support, you'll be well-equipped to reach your personal and professional goals.        </p>
+              Engage with the speakers during the live Q&amp;A, addressing specific challenges on topics like Conversion Optimization, Branding, and Digital Ads, while summarizing the key strategies for real-world application.
+
+        </p>
           </div>
         </div>
     
@@ -549,13 +557,12 @@
     <!-- /steve steps section main wrapper ends here -->
 
 <!-- rivex roadmap section main wrapper start from here -->
-<section id="rivexRoadmap" class="rivex roadmap rivexRoadmap" itemscope
-    itemtype="http://schema.org/Organization" itemprop="text"> 
+<section id="rivexRoadmap" class="rivex roadmap rivexRoadmap" itemscope="" itemtype="http://schema.org/Organization" itemprop="text"> 
 <!-- roadmap starts here -->
 <div class="container"> 
     <!-- Title of the roadmap/journey section -->
     <h2 class="text-center mb-4 branded" itemprop="headline">
-        Our Learning Path    </h2>
+        Features of WebTalks    </h2>
 </div> 
 
 <div class="container">
@@ -565,8 +572,8 @@
             <div class="main-timeline">
 
                 <!-- Timeline Item 1 -->
-                <div class="timeline" itemscope itemtype="https://schema.org/CreativeWork">
-                    <a href="#" class="timeline-content ">
+                <div class="timeline" itemscope="" itemtype="https://schema.org/CreativeWork">
+                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="timeline-content ">
                         <!-- Timeline step number -->
                         <div class="timeline-count" itemprop="position">
                             01                        </div>
@@ -576,55 +583,62 @@
                         </div>
                         <!-- Title of the timeline step -->
                         <h3 class=" title" itemprop="headline">
-                            Shaping the Idea                        </h3>
+                          Expert-Led Sessions                        </h3>
                         <!-- Description of the timeline step -->
                         <p class=" description" itemprop="text">
-                            Moksy was born as a vision to empower learners globally with skills in emerging technologies, laying the groundwork for an online learning revolution.                        </p>
+                          Our webinars are hosted by experienced digital marketing professionals who are leaders in their fields. They provide in-depth knowledge on the latest trends and best practices, offering real-world solutions for your marketing challenges. Learn directly from top industry experts with proven success                        </p>
                     </a>
                 </div>
 
                 <!-- Timeline Item 2 -->
-                <div class="timeline" itemscope itemtype="https://schema.org/CreativeWork">
-                    <a href="#" class="timeline-content ">
+                <div class="timeline" itemscope="" itemtype="https://schema.org/CreativeWork">
+                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="timeline-content ">
                         <div class="timeline-count" itemprop="position">
                             02                        </div>
                         <div class="timeline-icon">
                             <i class=" fas fa-wrench"></i>
                         </div>
                         <h3 class=" title" itemprop="headline">
-                            Preparing the Platform                        </h3>
+                          Real-Time Interaction &amp; Q&amp;A                       </h3>
                         <p class=" description" itemprop="text">
-                            we focused on setting up the foundational framework for Moksy, ensuring high-quality content and an engaging user interface for all learners.                        </p>
+                          
+                          Our sessions are designed to foster active engagement. You can ask questions during the live Q&amp;A, discuss ideas with the speakers, and engage in peer-to-peer networking. This interactive format allows you to clarify doubts and get personalized advice on specific challenges in your digital marketing journey.
+                          
+                          
+                          
+                          
+                  
+                                                  </p>
                     </a>
                 </div>
 
                 <!-- Timeline Item 3 -->
-                <div class="timeline" itemscope itemtype="https://schema.org/CreativeWork">
-                    <a href="#" class="timeline-content ">
+                <div class="timeline" itemscope="" itemtype="https://schema.org/CreativeWork">
+                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="timeline-content ">
                         <div class="timeline-count" itemprop="position">
                             03                        </div>
                         <div class="timeline-icon">
                             <i class=" fas fa-chart-line"></i>
                         </div>
                         <h3 class=" title" itemprop="headline">
-                            Expanding Knowledge Base                        </h3>
+                          Comprehensive Learning Resources                        </h3>
                         <p class=" description" itemprop="text">
-                            we introduced new courses in UI/UX, digital marketing, and cloud computing, broadening the scope of learning for students across various industries.                        </p>
+                          All attendees receive exclusive access to downloadable materials such as presentation slides, e-books, checklists, and guides. Additionally, recorded sessions are available for future reference, allowing you to revisit important concepts and keep up with the latest strategies at your own pace.                        </p>
                     </a>
                 </div>
 
                 <!-- Timeline Item 4 -->
-                <div class="timeline" itemscope itemtype="https://schema.org/CreativeWork">
-                    <a href="#" class="timeline-content ">
+                <div class="timeline" itemscope="" itemtype="https://schema.org/CreativeWork">
+                    <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="timeline-content ">
                         <div class="timeline-count" itemprop="position">
                             04                        </div>
                         <div class="timeline-icon">
                             <i class=" fas fa-desktop"></i>
                         </div>
                         <h3 class=" title" itemprop="headline">
-                            Revolutionizing E-Learning                        </h3>
+                          Certification &amp; Professional Growth                        </h3>
                         <p class=" description" itemprop="text">
-                            We are offering cutting-edge courses in web design, data science, and programming to create a future-ready online learning platform.                        </p>
+                          Upon completion, you'll receive a certificate that highlights your newly acquired skills in digital marketing. Our webinars also provide valuable opportunities for networking with professionals and organizations, opening doors for potential career advancement or collaborations.                        </p>
                     </a>
                 </div>
             </div>
@@ -637,7 +651,7 @@
 <!-- /rivex roadmap section main wrapper ends here -->
 
 <!-- saven section main wrapper start from here -->
-<section id="savenService" class="saven service savenService" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="savenService" class="saven service savenService" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
 
     <!-- Section Title -->
     <div class="text-center container mb-4">
@@ -647,63 +661,57 @@
     </div>
     
     <!-- service starts here -->
-    <main class="gallery gallery__content--flow" itemscope itemtype="https://schema.org/ItemList">
+    <main class="gallery gallery__content--flow" itemscope="" itemtype="https://schema.org/ItemList">
         <!-- Setting the context for a list of services -->
         
-        <figure itemscope itemtype="https://schema.org/ImageObject">
+        <figure itemscope="" itemtype="https://schema.org/ImageObject">
             <!-- Image for service -->
-            <img class=""  src="https://images.moksy.com/templates/default/icons/interactions.png"
-                 alt="#" itemprop="contentUrl">
+            <img class="" src="./WebTalks_files/interactions.png" alt="#" itemprop="contentUrl">
             <!-- Figcaption providing additional details -->
             <figcaption class="header__caption" role="presentation">
                 <!-- Service title -->
                 <h3 class=" title title--secondary" itemprop="name">
-                  SEO for Growth           </h3>
+                              </h3>
             </figcaption>
         </figure>  
     
-        <figure itemscope itemtype="https://schema.org/ImageObject">
-            <img class=""  src="https://images.moksy.com/templates/default/icons/video-lesson.png"
-                 alt="A tabby kitten with green eyes" itemprop="contentUrl">
+        <figure itemscope="" itemtype="https://schema.org/ImageObject">
+            <img class="" src="./WebTalks_files/video-lesson.png" alt="A tabby kitten with green eyes" itemprop="contentUrl">
             <figcaption class="header__caption" role="presentation">
                 <h3 class=" title title--secondary" itemprop="name">
-                  Social Media Strategies            </h3>
+                             </h3>
             </figcaption>
         </figure>
     
-        <figure itemscope itemtype="https://schema.org/ImageObject">
-            <img class=""  src="https://images.moksy.com/templates/default/icons/live-class.png"
-                 alt="A light brown puppy standing on a white and tan woven pet bed." itemprop="contentUrl">
+        <figure itemscope="" itemtype="https://schema.org/ImageObject">
+            <img class="" src="./WebTalks_files/live-class.png" alt="A light brown puppy standing on a white and tan woven pet bed." itemprop="contentUrl">
             <figcaption class="header__caption" role="presentation">
                 <h3 class=" title title--secondary" itemprop="name">
-                  Content Marketing Tips            </h3>
+                            </h3>
             </figcaption>
         </figure>
     
-        <figure itemscope itemtype="https://schema.org/ImageObject">
-            <img class=""  src="https://images.moksy.com/templates/default/icons/self-paced-learning.png"
-                 alt="#" itemprop="contentUrl">
+        <figure itemscope="" itemtype="https://schema.org/ImageObject">
+            <img class="" src="./WebTalks_files/self-paced-learning.png" alt="#" itemprop="contentUrl">
             <figcaption class="header__caption" role="presentation">
                 <h3 class=" title title--secondary" itemprop="name">
-                  Maximizing Paid Ads          </h3>
+                             </h3>
             </figcaption>
         </figure>
     
-        <figure itemscope itemtype="https://schema.org/ImageObject">
-            <img class=""  src="https://images.moksy.com/templates/default/icons/assessment.png"
-                 alt="A light brown puppy standing on a white and tan woven pet bed." itemprop="contentUrl">
+        <figure itemscope="" itemtype="https://schema.org/ImageObject">
+            <img class="" src="./WebTalks_files/assessment.png" alt="A light brown puppy standing on a white and tan woven pet bed." itemprop="contentUrl">
             <figcaption class="header__caption" role="presentation">
                 <h3 class=" title title--secondary" itemprop="name">
-                  Email Marketing Automation              </h3>
+                       </h3>
             </figcaption>
         </figure>
     
-        <figure itemscope itemtype="https://schema.org/ImageObject">
-            <img class=""  src="https://images.moksy.com/templates/default/icons/quiz.png"
-                 alt="#" itemprop="contentUrl">
+        <figure itemscope="" itemtype="https://schema.org/ImageObject">
+            <img class="" src="./WebTalks_files/quiz.png" alt="#" itemprop="contentUrl">
             <figcaption class="header__caption" role="presentation">
                 <h3 class=" title title--secondary" itemprop="name">
-                  Data-Driven Marketing           </h3>
+                           </h3>
             </figcaption>
         </figure>
     </main>
@@ -714,8 +722,7 @@
     <!-- /saven section main wrapper ends here -->
 
 <!-- snippet rovia main section wrapper start from here -->
-<section id="roviaRegistration" class="rovia registration roviaRegistration" itemscope=""
-    itemtype="http://schema.org/WebPage">
+<section id="roviaRegistration" class="rovia registration roviaRegistration" itemscope="" itemtype="http://schema.org/WebPage">
 
 <!-- main container starts from here -->
 <div class="">
@@ -725,13 +732,13 @@
             <!-- Left column for displaying logo and quick login option -->
             <div class="col-md-3 register-left">
                 <!-- Logo image for registration page branding -->
-                <img src="https://images.moksy.com/templates/default/hero/demo.svg" class="" alt="" />
+                <img src="./WebTalks_files/demo.svg" class="" alt="">
                 
                 <!-- Header text indicating registration prompt -->
                 <h3 class="" itemprop="headline">Already have an account?</h3>
                 
                 <!-- Login button for users who already have an account -->
-                <input type="submit" name="" class="" value="Login" /><br />
+                <input type="submit" name="" class="" value="Login"><br>
             </div>
             
             <!-- Right section with tabbed navigation for different registration options -->
@@ -741,14 +748,12 @@
                 <ul class="nav nav-tabs nav-justified " id="myTab" role="tablist">
                     <li class="nav-item">
                         <!-- Tab for first profession option -->
-                        <a class=" nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
-                            aria-controls="home" aria-selected="true" itemprop="jobTitle">
+                        <a class=" nav-link active" id="home-tab" data-toggle="tab" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#home" role="tab" aria-controls="home" aria-selected="true" itemprop="jobTitle">
                             Student                        </a>
                     </li>
                     <li class="nav-item">
                         <!-- Tab for second profession option -->
-                        <a class=" nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
-                            aria-controls="profile" aria-selected="false" itemprop="jobTitle">
+                        <a class=" nav-link" id="profile-tab" data-toggle="tab" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#profile" role="tab" aria-controls="profile" aria-selected="false" itemprop="jobTitle">
                             Teacher                        </a>
                     </li>
                 </ul>
@@ -759,7 +764,7 @@
                     <!-- First tab panel for the first profession's registration form -->
                     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                         <h3 class=" register-heading" itemprop="headline">
-                            Apply as a Student                        </h3>
+                            Join as a participant                        </h3>
                         
                         <!-- Registration form for first profession -->
                         <div class="row register-form">
@@ -767,29 +772,29 @@
                                 
                                 <!-- Input field for first name -->
                                 <div class="form-group">
-                                    <input type="text" class="form-control " placeholder="First Name *" value="" itemprop="givenName"/>
+                                    <input type="text" class="form-control " placeholder="First Name *" value="" itemprop="givenName">
                                 </div>
                                 
                                 <!-- Input field for last name -->
                                 <div class="form-group">
-                                    <input type="text" class="form-control " placeholder="Last Name *" value="" itemprop="familyName"/>
+                                    <input type="text" class="form-control " placeholder="Last Name *" value="" itemprop="familyName">
                                 </div>
                                 
                                 <!-- Input field for password -->
                                 <div class="form-group">
-                                    <input type="password" class="form-control " placeholder="Password *" value="" itemprop="password"/>
+                                    <input type="password" class="form-control " placeholder="Password *" value="" itemprop="password">
                                 </div>
                                 
                                 <!-- Input field for confirm password -->
                                 <div class="form-group">
-                                    <input type="password" class="form-control " placeholder="Confirm Password *" value="" itemprop="password"/>
+                                    <input type="password" class="form-control " placeholder="Confirm Password *" value="" itemprop="password">
                                 </div>
                                 
                                 <!-- Radio buttons for gender selection -->
                                 <div class="form-group">
                                     <div class="maxl">
                                         <label class="radio inline">
-                                            <input type="radio" name="gender" value="male" checked>
+                                            <input type="radio" name="gender" value="male" checked="">
                                             <span itemprop="gender">Male</span>
                                         </label>
                                         <label class="radio inline">
@@ -805,18 +810,18 @@
                                 
                                 <!-- Input field for email -->
                                 <div class="form-group">
-                                    <input type="email" class="form-control " placeholder="Your Email *" value="" itemprop="email"/>
+                                    <input type="email" class="form-control " placeholder="Your Email *" value="" itemprop="email">
                                 </div>
                                 
                                 <!-- Input field for phone number -->
                                 <div class="form-group">
-                                    <input type="text" minlength="10" maxlength="10" name="txtEmpPhone" class="form-control " placeholder="Your Phone *" value="" itemprop="telephone"/>
+                                    <input type="text" minlength="10" maxlength="10" name="txtEmpPhone" class="form-control " placeholder="Your Phone *" value="" itemprop="telephone">
                                 </div>
                                 
                                 <!-- Dropdown selection for area of expertise -->
                                 <div class="form-group">
                                     <select class="form-control " itemprop="areaServed">
-                                        <option class="hidden" selected disabled>Please select your Security Question</option>
+                                        <option class="hidden" selected="" disabled="">Please select your Security Question</option>
                                         <option>When is your Birthday ?</option> 
                                         <option>What is Your old Phone Number ?</option>
                                         <option>What is your Pet Name?</option>
@@ -825,11 +830,11 @@
                                 
                                 <!-- Input field for address -->
                                 <div class="form-group">
-                                    <input type="text" class="form-control " placeholder="Enter Your Answer *" value="" itemprop="address"/>
+                                    <input type="text" class="form-control " placeholder="Enter Your Answer *" value="" itemprop="address">
                                 </div>
                                 
                                 <!-- Register button -->
-                                <input type="submit" class="btnRegister " value="Register" itemprop="potentialAction"/>
+                                <input type="submit" class="btnRegister " value="Register" itemprop="potentialAction">
                             </div>
                         </div>
                     </div>
@@ -837,39 +842,39 @@
                     <!-- Second tab panel for alternative profession registration -->
                     <div class="tab-pane fade show" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                         <h3 class=" register-heading" itemprop="headline">
-                            Apply as a Teacher                        </h3>
+                            Join as a speaker                       </h3>
                         
                         <!-- Registration form fields for second profession -->
                         <div class="row register-form">
                             <div class="col-md-6">
                                 <!-- Fields similar to the first tab form -->
                                 <div class="form-group">
-                                    <input type="text" class="form-control " placeholder="First Name *" value="" itemprop="givenName"/>
+                                    <input type="text" class="form-control " placeholder="First Name *" value="" itemprop="givenName">
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" class="form-control " placeholder="Last Name *" value="" itemprop="familyName"/>
+                                    <input type="text" class="form-control " placeholder="Last Name *" value="" itemprop="familyName">
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" class="form-control " placeholder="Your Email *" value="" itemprop="email"/>
+                                    <input type="email" class="form-control " placeholder="Your Email *" value="" itemprop="email">
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" maxlength="10" minlength="10" class="form-control " placeholder="Your Phone *" value="" itemprop="telephone"/>
+                                    <input type="text" maxlength="10" minlength="10" class="form-control " placeholder="Your Phone *" value="" itemprop="telephone">
                                 </div>
                             </div>
                             
                             <div class="col-md-6">
                                 <!-- Password fields in the second form -->
                                 <div class="form-group">
-                                    <input type="password" class="form-control " placeholder="Password *" value="" itemprop="password"/>
+                                    <input type="password" class="form-control " placeholder="Password *" value="" itemprop="password">
                                 </div>
                                 <div class="form-group">
-                                    <input type="password" class="form-control " placeholder="Confirm Password *" value="" itemprop="password"/>
+                                    <input type="password" class="form-control " placeholder="Confirm Password *" value="" itemprop="password">
                                 </div>
                                 
                                 <!-- Expertise area dropdown -->
                                 <div class="form-group">
                                     <select class="form-control " itemprop="areaServed">
-                                        <option class="hidden" selected disabled>Please select your Security Question</option>
+                                        <option class="hidden" selected="" disabled="">Please select your Security Question</option>
                                         <option>When is your Birthday ?</option>
                                         <option>What is Your old Phone Number ?</option>
                                         <option>What is your Pet Name?</option>
@@ -878,11 +883,11 @@
                                 
                                 <!-- Address field for second form -->
                                 <div class="form-group">
-                                    <input type="text" class="form-control " placeholder="Enter Your Answer *" value="" itemprop="address"/>
+                                    <input type="text" class="form-control " placeholder="Enter Your Answer *" value="" itemprop="address">
                                 </div>
                                 
                                 <!-- Register button for the second tab -->
-                                <input type="submit" class="btnRegister " value="Register" itemprop="potentialAction"/>
+                                <input type="submit" class="btnRegister " value="Register" itemprop="potentialAction">
                             </div>
                         </div>
                     </div>
@@ -901,9 +906,9 @@
 
 <!-- cedra section start from here -->
 
-<section id="cedraCountdown" class="cedra countdown cedraCountdown" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="cedraCountdown" class="cedra countdown cedraCountdown" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
     <!-- countdown section starts here -->
-	<div class="container" itemscope itemtype="http://schema.org/Event">
+	<div class="container" itemscope="" itemtype="http://schema.org/Event">
 
 <!-- Heading for the countdown section -->
 <h2 class="" itemprop="name">Offer Ends In</h2>
@@ -917,7 +922,7 @@
 		<!-- Days countdown with label -->
 		<li>
 			<!-- Days value placeholder with schema duration attribute -->
-			<span id="days" itemprop="duration"></span>
+			<span id="days" itemprop="duration">170</span>
 			<!-- Label for days -->
 			<span itemprop="description">Days</span>
 		</li>
@@ -925,7 +930,7 @@
 		<!-- Hours countdown with label -->
 		<li>
 			<!-- Hours value placeholder with schema duration attribute -->
-			<span id="hours" itemprop="duration"></span>
+			<span id="hours" itemprop="duration">23</span>
 			<!-- Label for hours -->
 			<span itemprop="description">Hours</span>
 		</li>
@@ -933,7 +938,7 @@
 		<!-- Minutes countdown with label -->
 		<li>
 			<!-- Minutes value placeholder with schema duration attribute -->
-			<span id="minutes" itemprop="duration"></span>
+			<span id="minutes" itemprop="duration">58</span>
 			<!-- Label for minutes -->
 			<span itemprop="description">Minutes</span>
 		</li>
@@ -941,7 +946,7 @@
 		<!-- Seconds countdown with label -->
 		<li>
 			<!-- Seconds value placeholder with schema duration attribute -->
-			<span id="seconds" itemprop="duration"></span>
+			<span id="seconds" itemprop="duration">31</span>
 			<!-- Label for seconds -->
 			<span itemprop="description">Seconds</span>
 		</li>
@@ -959,8 +964,7 @@
 <!-- /cedra section ends here -->
 
 <!-- troza testimonial section main wrapper start from here -->
-<section id="trozaTestimonial" class="troza testimonial trozaTestimonial" itemscope
-    itemtype="http://schema.org/Organization" itemprop="text"> 
+<section id="trozaTestimonial" class="troza testimonial trozaTestimonial" itemscope="" itemtype="http://schema.org/Organization" itemprop="text"> 
    <!-- testimonial starts here -->
 <div class="container my-5">
     <div>
@@ -984,19 +988,19 @@
                     <div class="px-3 text-center pb-3">
                         <!-- Review text -->
                         <p class=" font-weight-light my-3 text-secondary" itemprop="reviewBody">
-                            A well-structured course with practical insights. The instructor was knowledgeable and provided valuable real-world examples. Perfect for beginners and those wanting a refresher.                        </p>
+                          “I’m a beginner in digital marketing, but everything was easy to understand. I left feeling confident and motivated to start my journey.”                        </p>
                     </div>
                 </div>
                 <div>
                     <!-- Reviewer image -->
                     <div class="font-weight-bold circle text-white rounded-circle d-flex align-items-center justify-content-center mx-auto position-relative border border-white mt-4 bg-circle">
-                        <img class=" rounded-circle image" src="https://images.moksy.com/templates/default/people/people-one.jpg" alt="Reviewer Image" itemprop="image">
+                        <img class=" rounded-circle image" src="./WebTalks_files/people-one.jpg" alt="Reviewer Image" itemprop="image">
                     </div>
                     <div class="text-center">
                         <!-- Reviewer name -->
-                        <h5 class=" font-weight-bold mt-4 mb-0" itemprop="author">Lauren Cox</h5>
+                        <h5 class=" font-weight-bold mt-4 mb-0" itemprop="author">Emma Brooks</h5>
                         <!-- Reviewer profession -->
-                        <small class="font-weight-bold" itemprop="jobTitle">Student</small>
+                        <small class="font-weight-bold" itemprop="jobTitle">Student &amp; Aspiring Marketer</small>
                     </div>
                 </div>
             </div>
@@ -1012,19 +1016,19 @@
                     <div class="px-3 text-center pb-3">
                         <!-- Review text -->
                         <p class=" font-weight-light my-3 text-white" itemprop="reviewBody">
-                            Thoroughly enjoyed this course. It was informative, concise, and easy to follow. The interactive elements kept me engaged throughout. Definitely worth the time and investment!                        </p>
+                          “As a business owner, I found the sessions incredibly valuable. The paid ads and analytics insights are already making a difference for my team.”                        </p>
                     </div>
                 </div>
                 <div>
                     <!-- Reviewer image -->
                     <div class="font-weight-bold circle text-white rounded-circle d-flex align-items-center justify-content-center mx-auto position-relative border border-white mt-4 bg-circle">
-                        <img class=" rounded-circle image" src="https://images.moksy.com/templates/default/people/people-two.jpg" alt="Reviewer Image" itemprop="image">
+                        <img class=" rounded-circle image" src="./WebTalks_files/people-two.jpg" alt="Reviewer Image" itemprop="image">
                     </div>
                     <div class="text-center">
                         <!-- Reviewer name -->
-                        <h5 class=" font-weight-bold mt-4 mb-0" itemprop="author">Terry Fletcher</h5>
+                        <h5 class=" font-weight-bold mt-4 mb-0" itemprop="author">Michael Carter</h5>
                         <!-- Reviewer profession -->
-                        <small class="font-weight-bold" itemprop="jobTitle">Banker</small>
+                        <small class="font-weight-bold" itemprop="jobTitle">Founder &amp; CEO</small>
                     </div>
                 </div>
             </div>
@@ -1040,19 +1044,19 @@
                     <div class="px-3 text-center pb-3">
                         <!-- Review text -->
                         <p class=" font-weight-light my-3 text-secondary" itemprop="reviewBody">
-                            Unlock endless knowledge with our intuitive app—engage in interactive lessons, track progress seamlessly, and master new skills anytime, anywhere.                        </p>
+                          “As an entrepreneur, this webinar gave me a clear roadmap for scaling my brand online. Practical, insightful, and expertly delivered.”                        </p>
                     </div>
                 </div>
                 <div>
                     <!-- Reviewer image -->
                     <div class="font-weight-bold circle text-white rounded-circle d-flex align-items-center justify-content-center mx-auto position-relative border border-white mt-4 bg-circle">
-                        <img class=" rounded-circle image" src="https://images.moksy.com/templates/default/people/people-nine.png" alt="Reviewer Image" itemprop="image">
+                        <img class=" rounded-circle image" src="./WebTalks_files/people-nine.png" alt="Reviewer Image" itemprop="image">
                     </div>
                     <div class="text-center">
                         <!-- Reviewer name -->
-                        <h5 class=" font-weight-bold mt-4 mb-0" itemprop="author">John Doe</h5>
+                        <h5 class=" font-weight-bold mt-4 mb-0" itemprop="author">Rachel Thompson</h5>
                         <!-- Reviewer profession -->
-                        <small class="font-weight-bold" itemprop="jobTitle">CA Student</small>
+                        <small class="font-weight-bold" itemprop="jobTitle">Entrepreneur</small>
                     </div>
                 </div>
             </div>
@@ -1065,7 +1069,7 @@
 <!-- /troza testimonial section main wrapper ends here -->
 
 <!-- Snippet foul faq section main wrapper start from here -->
-<section id="foulFaq" class="foulFaq foul faq" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="foulFaq" class="foulFaq foul faq" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
     <!-- faq starts here -->
     <div class="container my-5">
       <!-- Header section for FAQs -->
@@ -1081,7 +1085,7 @@
       <div class="row">  
         <!-- FAQ item 1 -->
         <div class="col-md-6">
-          <div class="my-3 p-4 bg-light" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <div class="my-3 p-4 bg-light" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
             <div class="d-flex align-items-start">
               <!-- Icon for FAQ -->
               <div class="mr-3 bg-dark text-white rounded-circle">
@@ -1090,15 +1094,17 @@
                 </span>
               </div>
               <div>
-                <a href="#" class="text-dark  ">
+                <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="text-dark  ">
                   <!-- FAQ question -->
                   <h6 class="  mb-3 h6" itemprop="name">
-                    Do you offer certificates?              </h6>
+                    Who can join the webinar?             </h6>
                 </a>
                 <!-- FAQ answer -->
-                <p class=" text-secondary para" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                <p class=" text-secondary para" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                   <span itemprop="text">
-                    Yes, we provide certificates of completion for all our courses, which you can share on LinkedIn and with potential employers.              </span>
+                    Anyone interested in digital marketing can join—whether you're a student, entrepreneur, freelancer, or business owner. No prior experience is required.
+
+              </span>
                 </p>
               </div>
             </div>
@@ -1107,7 +1113,7 @@
     
         <!-- FAQ item 2 -->
         <div class="col-md-6">
-          <div class="my-3 p-4 bg-light" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <div class="my-3 p-4 bg-light" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
             <div class="d-flex align-items-start">
               <div class="mr-3 bg-dark text-white rounded-circle">
                 <span>
@@ -1115,13 +1121,13 @@
                 </span>
               </div>
               <div>
-                <a href="#" class="text-dark  ">
+                <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="text-dark  ">
                   <h6 class="  mb-3 h6" itemprop="name">
-                    What if I have questions during the course?              </h6>
+                    Will I get a certificate after attending?              </h6>
                 </a>
-                <p class=" text-secondary para" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                <p class=" text-secondary para" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                   <span itemprop="text">
-                    Our courses include access to a dedicated support team and community forums where you can ask questions and get help.              </span>
+                    Yes, all attendees will receive a certificate of participation upon completing the webinar.              </span>
                 </p>
               </div>
             </div>
@@ -1130,7 +1136,7 @@
     
         <!-- FAQ item 3 -->
         <div class="col-md-6">
-          <div class="my-3 p-4 bg-light" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <div class="my-3 p-4 bg-light" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
             <div class="d-flex align-items-start">
               <div class="mr-3 bg-dark text-white rounded-circle">
                 <span>
@@ -1138,11 +1144,11 @@
                 </span>
               </div>
               <div>
-                <a href="#" class="text-dark  ">
+                <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="text-dark  ">
                   <h6 class="  mb-3 h6" itemprop="name">
-                    Are there any prerequisites for the courses?              </h6>
+                    Is the webinar live or pre-recorded?              </h6>
                 </a>
-                <p class=" text-secondary para" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                <p class=" text-secondary para" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                   <span itemprop="text">
                     Some courses have prerequisites, which are listed in the course description. Many beginner courses require no prior knowledge.              </span>
                 </p>
@@ -1153,7 +1159,7 @@
     
         <!-- FAQ item 4 -->
         <div class="col-md-6">
-          <div class="my-3 p-4 bg-light" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <div class="my-3 p-4 bg-light" itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
             <div class="d-flex align-items-start">
               <div class="mr-3 bg-dark text-white rounded-circle">
                 <span>
@@ -1161,13 +1167,13 @@
                 </span>
               </div>
               <div>
-                <a href="#" class="text-dark  ">
+                <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" class="text-dark  ">
                   <h6 class="  mb-3 h6" itemprop="name">
                     How long do I have access to the course materials?              </h6>
                 </a>
-                <p class=" text-secondary para" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                <p class=" text-secondary para" itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                   <span itemprop="text">
-                    Once enrolled, you have lifetime access to the course materials, allowing you to learn at your own pace.              </span>
+                    You can choose your role on the registration page—select “Join as a Speaker” if you want to present, or “Register as an Attendee” to participate and learn.              </span>
                 </p>
               </div>
             </div>
@@ -1183,7 +1189,7 @@
 
 <!-- balor banner section main wrapper start from here -->
 
-<section id="balorBanner" class="balor balorBanner banner" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="balorBanner" class="balor balorBanner banner" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
 
     <!-- banner content starts here -->
     <!-- header section for banner starts here -->
@@ -1246,7 +1252,7 @@
     <!-- /balor banner section main wrapper ends here -->
 
 <!-- susan section main wrapper start from here -->
-<section id="susanSocialShare" class="susan social susanSocialShare" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="susanSocialShare" class="susan social susanSocialShare" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
 
     <!-- social starts here: Begin main container for social media links section -->
     
@@ -1306,8 +1312,7 @@
 
 <!-- cyver section main wrapper start from here -->
 
-<section id="cyverClients" class="cyver clients cyverClients" itemscope
-    itemtype="http://schema.org/Organization" itemprop="text">
+<section id="cyverClients" class="cyver clients cyverClients" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
 <!-- client content starts here -->
 <div id="clients" class="section-bg">
     <!-- Container to hold the client section, adds background styling and centers content -->
@@ -1330,24 +1335,21 @@
             <div class="col-lg-3 col-md-4 col-xs-6">
                 <div class="client-logo">
                     <!-- Image for client logo with alt text and itemprop for accessibility and SEO -->
-                    <img src="https://images.moksy.com/templates/default/clients/client-restaurent.png"
-                         class="img-fluid " alt="an image" itemprop="image">
+                    <img src="./WebTalks_files/client-restaurent.png" class="img-fluid " alt="an image" itemprop="image">
                 </div>
             </div>
 
             <!-- Third client logo with similar styling and schema attributes -->
             <div class="col-lg-3 col-md-4 col-xs-6">
                 <div class="client-logo">
-                    <img src="https://images.moksy.com/templates/default/clients/client-abof.png"
-                         class="img-fluid " alt="an image" itemprop="image">
+                    <img src="./WebTalks_files/client-abof.png" class="img-fluid " alt="an image" itemprop="image">
                 </div>
             </div>
 
             <!-- Fourth client logo, following consistent schema usage and styling -->
             <div class="col-lg-3 col-md-4 col-xs-6">
                 <div class="client-logo">
-                    <img src="https://images.moksy.com/templates/default/clients/client-lilly.png"
-                         class="img-fluid " alt="an image" itemprop="image">
+                    <img src="./WebTalks_files/client-lilly.png" class="img-fluid " alt="an image" itemprop="image">
                 </div>
             </div>
 
@@ -1363,7 +1365,7 @@
 
 
 <!-- covel section main wrapper start from here -->
-<section id="covelContact" class="covel contact covelContact" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="covelContact" class="covel contact covelContact" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
 
     <!-- contact starts here -->
  
@@ -1377,7 +1379,7 @@
          <p class=" para" itemprop="text">
            <!-- Legal text with link to more information -->
            I Read and Accept 
-           <a href="#" itemprop="url" class="">
+           <a href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url" class="">
              Terms and Conditions          </a>
          </p>
        </div>
@@ -1433,8 +1435,7 @@
  
    <!-- Full-width map iframe at the bottom -->
    <div class="container-fluid p-0">
-     <iframe class="map " src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.8444388087937!2d26.101253041406952!3d44.43635311654287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff4770adb5b7%3A0x58147f39579fe6fa!2zR3J1cHVsIFN0YXR1YXIgIkPEg3J1yJthIEN1IFBhaWHIm2Ui!5e0!3m2!1sen!2sro!4v1507381157656"
-       frameborder="0" allowfullscreen="" itemprop="url"></iframe> <!-- Map iframe with structured data URL -->
+     <iframe class="map " src="./WebTalks_files/embed.html" frameborder="0" allowfullscreen="" itemprop="url"></iframe> <!-- Map iframe with structured data URL -->
    </div>
  </div>
  
@@ -1447,7 +1448,7 @@
 
 
 <!-- fluke section main wrapper start from here -->
-<section id="flukeFooter" class="fluke footer flukeFooter" itemscope itemtype="http://schema.org/Organization" itemprop="text">
+<section id="flukeFooter" class="fluke footer flukeFooter" itemscope="" itemtype="http://schema.org/Organization" itemprop="text">
 
     <!-- Footer starts here -->
   <footer class="fdb-block footer-small">
@@ -1458,11 +1459,11 @@
   
               <!-- Legal text section -->
               <div class="col-12 col-lg-4 text-lg-left " itemprop="headline">
-                  © 2019-<script type='text/javascript'> document.write(new Date().getFullYear()); </script> Moksy All rights reserved            </div>
+                  © 2019-<script type="text/javascript"> document.write(new Date().getFullYear()); </script>2025 Moksy All rights reserved            </div>
   
               <!-- Logo section -->
               <div class="col-12 col-lg-4 mt-4 mt-lg-0">
-                  <img class="" alt="an image" src="https://builder.moksy.com/wp-content/uploads/2022/08/logo-10.png">
+                  <img class="" alt="an image" src="./WebTalks_files/logo-10.png">
               </div>
   
               <!-- Footer menu links -->
@@ -1470,22 +1471,22 @@
                   <ul class="nav justify-content-lg-end justify-content-center ">
                       <!-- Footer menu link 1 -->
                       <li class="nav-item">
-                          <a class=" nav-link" href="#" itemprop="url">
+                          <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
                               Overview                        </a>
                       </li>
                       <!-- Footer menu link 2 -->
                       <li class="nav-item">
-                          <a class=" nav-link" href="#" itemprop="url">
+                          <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
                               Vision                        </a>
                       </li>
                       <!-- Footer menu link 3 -->
                       <li class="nav-item">
-                          <a class=" nav-link" href="#" itemprop="url">
+                          <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
                               Team                        </a>
                       </li>
                       <!-- Footer menu link 4 -->
                       <li class="nav-item">
-                          <a class=" nav-link" href="#" itemprop="url">
+                          <a class=" nav-link" href="file:///C:/Moksy%20Templates/Webinar/webinar/index.html#" itemprop="url">
                               Careers                        </a>
                       </li>
                   </ul>
@@ -1515,5 +1516,5 @@
 
 
 
-<script data-cfasync="false" src="https://code.jquery.com/jquery-3.6.0.min.js"></script><script data-cfasync="false" src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script><script data-cfasync="false" src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script><script data-cfasync="false" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.4.0/jquery-migrate.min.js"></script><script data-cfasync="false" src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script><script data-cfasync="false" src="https://cdn.jsdelivr.net/npm/admin-lte@3.1/dist/js/adminlte.min.js"></script>
-<script src="assets/scripts/scripts.js"></script></body></html>
+<script data-cfasync="false" src="./WebTalks_files/jquery-3.6.0.min.js.download"></script><script data-cfasync="false" src="./WebTalks_files/jquery.slim.min.js.download"></script><script data-cfasync="false" src="./WebTalks_files/jquery-ui.min.js.download"></script><script data-cfasync="false" src="./WebTalks_files/jquery-migrate.min.js.download"></script><script data-cfasync="false" src="./WebTalks_files/bootstrap.bundle.min.js.download"></script><script data-cfasync="false" src="./WebTalks_files/adminlte.min.js.download"></script>
+<script src="./WebTalks_files/scripts.js"></script></body></html>
